@@ -1,0 +1,7 @@
+Max30100 Sensor
+Mpu6050 Sensor
+Lm35 Sensor
+Esp8266
+Labries
+Max30100_Milan by Oxullo Interactions
+Mpu6050 Electronic cats
