@@ -81,10 +81,6 @@ Contributions are welcome! Feel free to fork this repository, open issues, and s
 
 ---
 
-## 🛡️ License
-This project is licensed under the **MIT License**.
-
-
 
 ## 🌟 Acknowledgments
 - Firebase for real-time cloud storage
